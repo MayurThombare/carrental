@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'carrentalbymayur'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3BC72ED049F94604B21DC67EC285056F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AF6801B8305421B84CF2DD4B767E6BB }}
           package: .
